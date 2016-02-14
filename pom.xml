@@ -48,8 +48,8 @@
                     </execution>
                 </executions>
                 <configuration>
-                    <jsSrcDir>${basedir}/src/main/webapp/javascript</jsSrcDir>
-                    <jsSrcDir>${basedir}/src/main/webapp/test/javascript</jsSrcDir>
+                    <jsSrcDir>${basedir}/src/main/webapp/javascript/</jsSrcDir>
+                    <jsTestSrcDir>${basedir}/src/main/webapp/test/javascript/</jsTestSrcDir>
                 </configuration>
             </plugin>
             <plugin>
